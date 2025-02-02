@@ -79,6 +79,7 @@ public static partial class BfVanillaNames
     "The Sailors' Pier",
     "A Long Journey's End",
     "The Usurper",
-    "Bustling Ant Kingdom!"
+    "Bustling Ant Kingdom!",
+    "Heroes of Legend"
   };
 }
